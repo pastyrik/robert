@@ -1,0 +1,45 @@
+Error log:
+
+[02/Oct/2012 15:46:32] FullTextServiceImpl.cpp: Failed to initiate comunication (1) to FullTextServer.
+[03/Oct/2012 08:14:35] FullTextServiceImpl.cpp: SEVERE Connection timeout, mailserver is still not connected. (FullTextServer$3.run)
+[03/Oct/2012 08:14:37] FullTextServiceImpl.cpp: xception in thread "main" 
+[03/Oct/2012 08:14:37] FullTextServiceImpl.cpp: Failed to initiate comunication (1) to FullTextServer.
+[03/Oct/2012 08:26:27] FullTextServiceImpl.cpp: Failed to initiate comunication (1) to FullTextServer.
+[03/Oct/2012 08:26:27] main.cpp: Failed to start fulltext service.
+[03/Oct/2012 08:38:31] FullTextServiceImpl.cpp: Failed to initiate comunication (1) to FullTextServer.
+[03/Oct/2012 08:38:31] main.cpp: Failed to start fulltext service.
+[03/Oct/2012 08:39:19] FullTextServiceImpl.cpp: Failed to initiate comunication (1) to FullTextServer.
+[03/Oct/2012 09:22:27] FullTextServiceImpl.cpp: Failed to initiate comunication (1) to FullTextServer.
+
+warning - zadny zaznam
+security - zadny zaznam
+
+debug log:
+
+[03/Oct/2012 09:22:15][2345] {fulltext} INFO awt.graphicsenv: sun.awt.X11GraphicsEnvironment (FullTextServer.logJavaVersion)
+[03/Oct/2012 09:22:15][2345] {fulltext} INFO awt.printerjob: sun.print.PSPrinterJob (FullTextServer.logJavaVersion)
+[03/Oct/2012 09:22:15][2345] {fulltext} INFO class.path: FullTextServer.jar (FullTextServer.logJavaVersion)
+[03/Oct/2012 09:22:15][2345] {fulltext} INFO class.version: 50.0 (FullTextServer.logJavaVersion)
+[03/Oct/2012 09:22:15][2345] {fulltext} INFO endorsed.dirs: /opt/kerio/mailserver/jre/lib/endorsed (FullTextServer.logJavaVersion)
+[03/Oct/2012 09:22:15][2345] {fulltext} INFO ext.dirs: /opt/kerio/mailserver/jre/lib/ext:/usr/java/packages/lib/ext (FullTextServer.logJavaVersion)
+[03/Oct/2012 09:22:15][2345] {fulltext} INFO home: /opt/kerio/mailserver/jre (FullTextServer.logJavaVersion)
+[03/Oct/2012 09:22:15][2345] {fulltext} INFO io.tmpdir: /tmp (FullTextServer.logJavaVersion)
+[03/Oct/2012 09:22:15][2345] {fulltext} INFO runtime.name: Java(TM) SE Runtime Environment (FullTextServer.logJavaVersion)
+[03/Oct/2012 09:22:15][2345] {fulltext} INFO runtime.version: 1.6.0_26-b03 (FullTextServer.logJavaVersion)
+[03/Oct/2012 09:22:15][2345] {fulltext} INFO specification.name: Java Platform API Specification (FullTextServer.logJavaVersion)
+[03/Oct/2012 09:22:15][2345] {fulltext} INFO specification.vendor: Sun Microsystems Inc. (FullTextServer.logJavaVersion)
+[03/Oct/2012 09:22:15][2345] {fulltext} INFO specification.version: 1.6 (FullTextServer.logJavaVersion)
+[03/Oct/2012 09:22:15][2345] {fulltext} INFO vendor: Sun Microsystems Inc. (FullTextServer.logJavaVersion)
+[03/Oct/2012 09:22:15][2345] {fulltext} INFO vendor.url: http://sun.com/ (FullTextServer.logJavaVersion)
+[03/Oct/2012 09:22:15][2345] {fulltext} INFO vendor.url.bug: http://sun.com/cgi-bin/bugreport.cgi (FullTextServer.logJavaVersion)
+[03/Oct/2012 09:22:15][2345] {fulltext} INFO version: 1.6.0_26 (FullTextServer.logJavaVersion)
+[03/Oct/2012 09:22:15][2345] {fulltext} INFO vm.info: mixed mode, sharing (FullTextServer.logJavaVersion)
+[03/Oct/2012 09:22:15][2345] {fulltext} INFO vm.name: Java HotSpot(TM) Client VM (FullTextServer.logJavaVersion)
+[03/Oct/2012 09:22:15][2345] {fulltext} INFO vm.specification.name: Java Virtual Machine Specification (FullTextServer.logJavaVersion)
+[03/Oct/2012 09:22:15][2345] {fulltext} INFO vm.specification.vendor: Sun Microsystems Inc. (FullTextServer.logJavaVersion)
+[03/Oct/2012 09:22:15][2345] {fulltext} INFO vm.specification.version: 1.0 (FullTextServer.logJavaVersion)
+[03/Oct/2012 09:22:15][2345] {fulltext} INFO vm.vendor: Sun Microsystems Inc. (FullTextServer.logJavaVersion)
+[03/Oct/2012 09:22:15][2345] {fulltext} INFO vm.version: 20.1-b02 (FullTextServer.logJavaVersion)
+[03/Oct/2012 09:22:27][2147] {fulltext} Failed to start fulltext service.
+[03/Oct/2012 10:38:31][2147] {fulltext} Failed to connect to fulltext service after start.
+[03/Oct/2012 10:38:31][2147] {fulltext} Failed to start fulltext service.
